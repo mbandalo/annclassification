@@ -1,5 +1,4 @@
-tensorflow-metal
-tensorflow-macos
+tensorflow
 pandas 
 numpy 
 scikit-learn
